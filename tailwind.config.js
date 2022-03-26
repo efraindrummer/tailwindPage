@@ -1,8 +1,8 @@
 module.exports = {
-    purge: [
+    content: [
         './public/**/*.html',
     ],
-    darkMode: false,
+    darkMode: "class",
     theme: {
         extend: {}
     },
